@@ -1,0 +1,5 @@
+C:\Users\SONY_VAIO\AndroidStudioProjects\PlacementApp\app\build\intermediates\classes\debug
+C:\Users\SONY_VAIO\AndroidStudioProjects\PlacementApp\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-1b934664efd1b862a9a1cf2b6fc0e225c2837cc2.jar
+C:\Users\SONY_VAIO\AndroidStudioProjects\PlacementApp\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-d1ebc47a622eb41145916efea01fce2c24f46163.jar
+C:\Users\SONY_VAIO\AndroidStudioProjects\PlacementApp\app\build\intermediates\pre-dexed\debug\classes-b95a1b54048f3cef70ed678dc63e6c8b5f282da9.jar
+C:\Users\SONY_VAIO\AndroidStudioProjects\PlacementApp\app\build\intermediates\pre-dexed\debug\classes-c11efc16b28c2b0e6258edc74c2507cf41f8cb7e.jar
